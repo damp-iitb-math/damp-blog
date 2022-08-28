@@ -23,7 +23,7 @@ categories: applied
 
 - Grading Policy: Course was taught for first time and grading was done only till mid-semester exam. 1-2 graded homeworks, mid-semester exam.
 
-- Study Material and References: https://www.cadmo.ethz.ch/education/lectures/FS18/LAMC/index.html (many of the topics were same as in the course given but it’s not exclusive); Linear Algebra Methods in Combinatorics by László Babai and Péter Frankl.
+- Study Material and References: [Linear Algebra Methods in Combinatorics](https://www.cadmo.ethz.ch/education/lectures/FS18/LAMC/index.html) (many of the topics were same as in the course given but it’s not exclusive); Linear Algebra Methods in Combinatorics by László Babai and Péter Frankl.
 
 - Follow-up Courses: CS 490 R&D Project Course
 
