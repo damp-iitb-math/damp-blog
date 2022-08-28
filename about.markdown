@@ -9,7 +9,7 @@ We are the D-AMP Team from Mathematics Department!
 | ```"Mathematics is the most beautiful and most powerful creation of the human spirit."``` -Stefan Banach, Polish Mathematician
 
 
-~ D-AMP Team 2021-22, Mathematics Department
+~ Made with <span style="color: #e25555;">&hearts;</span> by D-AMP Team 2021-22, Mathematics Department
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

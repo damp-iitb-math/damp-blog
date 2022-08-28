@@ -17,7 +17,7 @@ You will also find interesting reads, authored by the students of this departmen
 
 Keep checking out the blog regularly!
 
-~ D-AMP Team 2021-22, Mathematics Department
+~ Made with <span style="color: #e25555;">&hearts;</span> by D-AMP Team 2021-22, Mathematics Department
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
