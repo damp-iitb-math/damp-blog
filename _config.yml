@@ -19,16 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mathematics D-AMP Blog
-email: mathdampiitb@gmail.com
+email: damp.iitb.math@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   D-AMP Blog for Mathematics Department, IITB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  khush-dev
+# twitter_username: jekyllrb
+github_username:  damp-iitb-math
 
 # Build settings
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
