@@ -3,9 +3,11 @@ layout: post
 title:  "CS760: Topics in Computational Complexity"
 date:   2022-08-28 22:24:20 +0530
 categories: applied
+tags:
+  - applied
+author:
+  name: "Kirtan Vora"
 ---
-
-- Review by: Kirtan Vora
 
 - Instructor: Sundar Vishwanathan and Mrinal Kumar
 

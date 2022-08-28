@@ -3,9 +3,13 @@ layout: post
 title:  "MA5101: Algebra-II"
 date:   2022-08-28 22:24:20 +0530
 categories: algebra
+tags:
+  - algebra
+author:
+  name: "Manav Batavia"
 ---
 
-- Review by: Manav Batavia
+- Review by: 
 
 - Instructor: Ananthnarayan Hariharan
 

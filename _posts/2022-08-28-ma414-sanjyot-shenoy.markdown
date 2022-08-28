@@ -3,9 +3,11 @@ layout: post
 title:  "MA414: Algebra-I"
 date:   2022-08-28 22:24:20 +0530
 categories: algebra
+tags:
+  - algebra
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Sudrashan Gurjar
 

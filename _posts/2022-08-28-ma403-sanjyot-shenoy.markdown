@@ -3,12 +3,14 @@ layout: post
 title:  "MA403 Real Analysis"
 date:   2022-08-28 22:24:20 +0530
 categories: analysis
+tags:
+  - analysis
+author:
+  name: "Sanjyot Shenoy"
 ---
 
-- Review by: Sanjyot Shenoy
-  
 - Instructor: Rekha Kulkarni
-  
+
 - Pre-requisites: None
 
 - Semester in which the course was taken: Autumn 2020-21

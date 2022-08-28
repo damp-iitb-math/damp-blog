@@ -3,9 +3,12 @@ layout: post
 title:  "MA410: Multi-Variable Calculus"
 date:   2022-08-28 22:24:20 +0530
 categories: analysis
+tags:
+  - analysis
+  - calculus
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Preeti Raman
 

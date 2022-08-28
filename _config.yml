@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: en-US
 title: Mathematics D-AMP Blog
 email: damp.iitb.math@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,12 +27,52 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  damp-iitb-math
+search: true
+search_full_content: true
+search_provider: lunr
+# algolia:
+#   application_id: QB6HVGBSBA
+#   index_name: basically-basic
+#   search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+#   powered_by:
+
+# Liquid
+liquid:
+  error_mode: strict
 
 # Build settings
+markdown: kramdown
 # theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
+plugins: # previously gems
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  # - scope:
+  #     path: "_recipes"
+  #     type: recipes
+  #   values:
+  #     layout: post
+  #     read_time: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

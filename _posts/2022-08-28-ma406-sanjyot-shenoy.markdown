@@ -3,9 +3,11 @@ layout: post
 title:  "MA406: General Topology"
 date:   2022-08-28 22:24:20 +0530
 categories: topology
+tags:
+  - topology
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Santanu Dey
 

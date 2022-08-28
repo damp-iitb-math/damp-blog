@@ -2,11 +2,13 @@
 layout: post
 title:  "MA408: Measure Theory"
 date:   2022-08-28 22:24:20 +0530
-categories: analysis measure
+categories: analysis
+tags:
+  - analysis
+  - measure-theory
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Niranjan Balachandran
 

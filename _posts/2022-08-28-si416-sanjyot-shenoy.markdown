@@ -2,10 +2,13 @@
 layout: post
 title:  "SI416: Optimization"
 date:   2022-08-28 22:24:20 +0530
-categories: applied optimization
+categories: applied
+tags:
+  - optimization
+  - applied
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Sanjeev Sabnis
 

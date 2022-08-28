@@ -2,10 +2,13 @@
 layout: post
 title:  "MA524: Algebraic Number Theory"
 date:   2022-08-28 22:24:20 +0530
-categories: number-theory algebra
+categories: number-theory
+tags:
+  - number-theory
+  - algebra
+author:
+  name: "Manav Batavia"
 ---
-
-- Review by: Manav Batavia
 
 - Instructor: U.K. Anandavardhan
 

@@ -3,9 +3,11 @@ layout: post
 title:  "MA412: Complex Analysis"
 date:   2022-08-28 22:24:20 +0530
 categories: analysis
+tags:
+  - analysis
+author:
+  name: "Sanjyot Shenoy"
 ---
-
-- Review by: Sanjyot Shenoy
 
 - Instructor: Bata K. Das
 

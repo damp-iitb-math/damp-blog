@@ -3,9 +3,11 @@ layout: post
 title:  "MA523: Basic Number Theory"
 date:   2022-08-28 22:24:20 +0530
 categories: number-theory
+tags:
+  - number-theory
+author:
+  name: "Aryaman Maithani"
 ---
-
-- Review by: Aryaman Maithani
 
 - Instructor: Shripad M. Garge
 

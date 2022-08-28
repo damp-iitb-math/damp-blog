@@ -2,10 +2,13 @@
 layout: post
 title:  "MA5102: Basic Algebraic Topology"
 date:   2022-08-28 22:24:20 +0530
-categories: topology algebra
+categories: topology
+tags:
+  - topology
+  - algebra
+author:
+  name: "Manav Batavia"
 ---
-
-- Review by: Manav Batavia
 
 - Instructor: Sandip Singh
 
