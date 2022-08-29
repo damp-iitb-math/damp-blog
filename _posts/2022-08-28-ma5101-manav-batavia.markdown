@@ -9,8 +9,6 @@ author:
   name: "Manav Batavia"
 ---
 
-- Review by: 
-
 - Instructor: Ananthnarayan Hariharan
 
 - Pre-requisites: Algebra-I(MA 414)
