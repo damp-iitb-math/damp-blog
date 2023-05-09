@@ -14,18 +14,18 @@ with open(filename, 'r') as f:
         # print(r)
         if len(r[5]):
             tags = '\n - ' + '\n - '.join(re.split(';|,|\+', r[5]))
+            tags = tags.lower()
         else:
             tags = ''
 
         date = datetime.strptime(r[0], '%m/%d/%Y %H:%M:%S').strftime('%Y-%m-%d %H:%M:%S')
         r = [col.strip() for col in r]
         md_file = f"_posts/{date.split()[0]}-{r[2]}-{r[1].lower().replace(' ', '-')}.markdown"
-        md = f'''
----
+        md = f'''---
 layout: post
 title:  "{r[2]}: {r[3]}"
 date:   {date} +0530
-categories: {re.split(';|,', r[5])[0]}
+categories: {re.split(';|,', r[5])[0].lower()}
 tags:{tags}
 author:
   name: "{r[1]}"

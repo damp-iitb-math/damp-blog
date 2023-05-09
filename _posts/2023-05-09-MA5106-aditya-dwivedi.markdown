@@ -1,11 +1,10 @@
-
 ---
 layout: post
 title:  "MA5106: Introduction to Fourier analysis"
 date:   2023-05-09 14:02:38 +0530
-categories: Analysis
+categories: analysis
 tags:
- - Analysis 
+ - analysis 
 author:
   name: "Aditya Dwivedi"
 ---
