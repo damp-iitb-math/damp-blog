@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MA 401: Linear Algebra"
+title:  "MA401: Linear Algebra"
 date:   2022-08-28 22:24:20 +0530
 categories: linear-algebra
 tags:

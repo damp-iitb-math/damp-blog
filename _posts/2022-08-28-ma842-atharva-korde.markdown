@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MA 842: Topics in Algebra-II"
+title:  "MA842: Topics in Algebra-II"
 date:   2022-08-28 22:24:20 +0530
 categories: algebra
 tags:

@@ -19,8 +19,11 @@ with open(filename, 'r') as f:
         else:
             tags = ''
 
+        # get date in req format
         date = datetime.strptime(r[0], '%m/%d/%Y %H:%M:%S').strftime('%Y-%m-%d %H:%M:%S')
-        r = [col.strip() for col in r]
+        r[2] = r[2].replace(' ','').upper() # course code
+        r = [col.strip() for col in r] # remove trailing spaces
+        # filename of file to be created
         md_file = f"_posts/{date.split()[0]}-{r[2].lower()}-{r[1].lower().replace(' ', '-')}.markdown"
         md = f'''---
 layout: post

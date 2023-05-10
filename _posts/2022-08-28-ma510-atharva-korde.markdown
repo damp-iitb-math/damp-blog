@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MA 510: Introduction to Algebraic Geometry"
+title:  "MA510: Introduction to Algebraic Geometry"
 date:   2022-08-28 22:24:20 +0530
 categories: algebra
 tags:
