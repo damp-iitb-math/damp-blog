@@ -21,7 +21,7 @@ author:
 
 - Lecture Quality and Pacing: The lecture pacing was perfect and the lectures covered a good amount of content, the professor had shared his slides for the course earlier due to which it was easy to relook at what was done in class or catch if absent in class.
 
-- Exams and Assignments: The exams were moodertae to easy
+- Exams and Assignments: The exams were moderate to easy
 
 - Grading Policy: Course had 2 quiz, 1 midsem and 1 endsem
 

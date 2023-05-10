@@ -5,6 +5,7 @@ import re
 from datetime import datetime
 
 filename = 'Mathematics D-AMP Blog course review (Responses) - Form Responses 1.csv'
+# filename = 'Course review.csv'
 
 with open(filename, 'r') as f:
     reader = csv.reader(f)
@@ -20,7 +21,7 @@ with open(filename, 'r') as f:
 
         date = datetime.strptime(r[0], '%m/%d/%Y %H:%M:%S').strftime('%Y-%m-%d %H:%M:%S')
         r = [col.strip() for col in r]
-        md_file = f"_posts/{date.split()[0]}-{r[2]}-{r[1].lower().replace(' ', '-')}.markdown"
+        md_file = f"_posts/{date.split()[0]}-{r[2].lower()}-{r[1].lower().replace(' ', '-')}.markdown"
         md = f'''---
 layout: post
 title:  "{r[2]}: {r[3]}"
@@ -54,5 +55,6 @@ author:
 - Advice on Studying this course: {r[15]}
 '''
         # print(md)
+        # print(md_file)
         with open(md_file, 'w') as md_f:
             md_f.write(md)
