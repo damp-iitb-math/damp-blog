@@ -1,5 +1,6 @@
 #! /usr/bin/python
 
+import os
 import csv
 import re
 from datetime import datetime
@@ -25,6 +26,8 @@ with open(filename, 'r') as f:
         r = [col.strip() for col in r] # remove trailing spaces
         # filename of file to be created
         md_file = f"_posts/{date.split()[0]}-{r[2].lower()}-{r[1].lower().replace(' ', '-')}.markdown"
+        if os.path.isfile(md_file):
+            continue
         md = f'''---
 layout: post
 title:  "{r[2]}: {r[3]}"

@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "MA528: Hyperplane Arrangements"
+date:   2023-05-10 11:56:51 +0530
+categories: algebra
+tags:
+ - algebra
+ -  geometry
+ -  modern
+author:
+  name: "Khush Jain"
+---
+
+- Instructor: Swapneel Mahajan
+
+- Pre-requisites: None
+
+- Semester in which the course was taken: Spring 2022-23
+
+- Motivation for taking the course: I liked MA833 that was taught by Prof. Swapneel. Also, I wanted to take a modern course related to algebra
+
+- Course Content: Course started with a brief discussion of category theory. Later, Braid arrangements were studied extensively. Occasionally, general hyperplanes were studied. Matrix compositions, Tits product, Quasishuffles, shuffles, groupoid of bicomposition, compositions, partitions, bicompositions power series were studied.
+Combinatorial calculations were provided with a geometric explanation/connection with the help of hyperplanes. Graded bialgebras were discussed for an explicit example use case.
+Later part of the course dealt with Zeta and Mobius series in each power series.
+
+- Lecture Quality and Pacing: Lectures were highly engaging and stimulating. Slides with illustrations were used extensively. From time to time, the professor switched to board for further explanation and examples. Straw models of hyperplanes were used for explaining all related concepts. Lectures were moderately paced. There were student presentations in the last two lectures. Also, a broad picture of the fields involved was discussed in the last lecture.
+
+- Exams and Assignments: Exam consisted of only True/False questions with +1 for correct and -1 for incorrect. 3 quizzes, midsem and endsem were conducted. Weightage was evenly distributed 16-quiz and 20-midsem/endsem. 30 marks were awarded for full attendance except for 2 days.
+There were compulsory assignments with no weightage, but bonus were awarded to good assignments. Bonus were also awarded
+
+- Grading Policy: Grading was normal-good with BB as median grade and 5 AA's out of 31.
+
+- Study Material and References: Excellent resources are provided by the Professor. There is not much content found online. Aguiar and S. Mahajan. 'Topics in hyperplane arrangements' is a good reference.
+
+- Follow-up Courses: MA5115 Hopf Algebras and MA5116 Species and Operads by Prof. Swapneel are the advised follow-ups. Though these courses haven't been run yet
+
+- Advice on Studying this course: Keep attending lectures with atmost attention and clear your doubts
