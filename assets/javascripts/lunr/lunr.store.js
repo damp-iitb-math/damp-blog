@@ -12,6 +12,8 @@ var store = [
     {%- for doc in docs -%}
       {
         "title": {{ doc.title | jsonify }},
+        // "code": {{ doc.title | replace:'/[^0-9]/g', '' | jsonify }},
+        "code": {{ doc.title | truncate: 6, '' | slice: 2,5 | replace: ':', '' | jsonify }},
         "excerpt":
         {%- if site.search_full_content == true -%}
           {{ doc.content |
