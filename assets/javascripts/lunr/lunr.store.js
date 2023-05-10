@@ -14,6 +14,7 @@ var store = [
         "title": {{ doc.title | jsonify }},
         // "code": {{ doc.title | replace:'/[^0-9]/g', '' | jsonify }},
         "code": {{ doc.title | truncate: 6, '' | slice: 2,5 | replace: ':', '' | jsonify }},
+        "author": {{ doc.author.name | jsonify }},
         "excerpt":
         {%- if site.search_full_content == true -%}
           {{ doc.content |
